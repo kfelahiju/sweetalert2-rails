@@ -1,3 +1,3 @@
 module SweetAlert2
-  VERSION = '7.0.0'
+  VERSION = '6.11.5'
 end
